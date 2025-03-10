@@ -1,0 +1,1 @@
+We analyzed sentiment on 100 tweets using three sentiment analysis tools (TextBlob, VADER, and a RoBERTa-base model) and six human raters.  To measure agreement, we calculated Cohen’s Kappa for each pair of raters (including both humans and tools) and Fleiss’ Kappa for multiple raters. 
